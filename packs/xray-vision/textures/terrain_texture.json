@@ -1,0 +1,49 @@
+{
+  "resource_pack_name": "xray-vision",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "stone": { "textures": "textures/blocks/stone" },
+    "deepslate": { "textures": "textures/blocks/deepslate" },
+    "granite": { "textures": "textures/blocks/granite" },
+    "diorite": { "textures": "textures/blocks/diorite" },
+    "andesite": { "textures": "textures/blocks/andesite" },
+    "tuff": { "textures": "textures/blocks/tuff" },
+    "basalt_side": { "textures": "textures/blocks/basalt_side" },
+    "basalt_top": { "textures": "textures/blocks/basalt_top" },
+    "blackstone": { "textures": "textures/blocks/blackstone" },
+    "end_stone": { "textures": "textures/blocks/end_stone" },
+    "netherrack": { "textures": "textures/blocks/netherrack" },
+
+    "coal_ore": { "textures": "textures/blocks/coal_ore" },
+    "deepslate_coal_ore": { "textures": "textures/blocks/deepslate_coal_ore" },
+
+    "iron_ore": { "textures": "textures/blocks/iron_ore" },
+    "deepslate_iron_ore": { "textures": "textures/blocks/deepslate_iron_ore" },
+
+    "copper_ore": { "textures": "textures/blocks/copper_ore" },
+    "deepslate_copper_ore": { "textures": "textures/blocks/deepslate_copper_ore" },
+
+    "gold_ore": { "textures": "textures/blocks/gold_ore" },
+    "deepslate_gold_ore": { "textures": "textures/blocks/deepslate_gold_ore" },
+
+    "redstone_ore": { "textures": "textures/blocks/redstone_ore" },
+    "lit_redstone_ore": { "textures": "textures/blocks/lit_redstone_ore" },
+    "deepslate_redstone_ore": { "textures": "textures/blocks/deepslate_redstone_ore" },
+
+    "lapis_ore": { "textures": "textures/blocks/lapis_ore" },
+    "deepslate_lapis_ore": { "textures": "textures/blocks/deepslate_lapis_ore" },
+
+    "emerald_ore": { "textures": "textures/blocks/emerald_ore" },
+    "deepslate_emerald_ore": { "textures": "textures/blocks/deepslate_emerald_ore" },
+
+    "diamond_ore": { "textures": "textures/blocks/diamond_ore" },
+    "deepslate_diamond_ore": { "textures": "textures/blocks/deepslate_diamond_ore" },
+
+    "nether_gold_ore": { "textures": "textures/blocks/nether_gold_ore" },
+    "quartz_ore": { "textures": "textures/blocks/quartz_ore" },
+    "ancient_debris_side": { "textures": "textures/blocks/ancient_debris_side" },
+    "ancient_debris_top": { "textures": "textures/blocks/ancient_debris_top" }
+  }
+}
