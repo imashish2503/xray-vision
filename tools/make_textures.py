@@ -6,21 +6,6 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PACK_DIR = os.path.join(ROOT, "packs", "xray-vision")
 BLOCKS_DIR = os.path.join(PACK_DIR, "textures", "blocks")
 
-# Blocks we make fully transparent (common stone-like terrain)
-OPAQUE_TO_TRANSPARENT = [
-    "stone",
-    "deepslate",
-    "granite",
-    "diorite",
-    "andesite",
-    "tuff",
-    "basalt_side",
-    "basalt_top",
-    "blackstone",
-    "end_stone",
-    "netherrack",
-]
-
 # Ores with colors for easy identification
 ORES = {
     "coal_ore": (30, 30, 30),

@@ -1,0 +1,215 @@
+{
+  "stone" : { 
+    "blockshape": "invisible"
+  },
+  "lava" : { 
+    "blockshape": "end_rod"
+  },
+  "flowing_lava" : { 
+    "blockshape": "end_rod"
+  },
+  "calcite" : {
+    "blockshape": "invisible"
+  } ,
+  "sandstone" : { 
+    "blockshape": "invisible"
+  },
+  "gravel" : { 
+    "blockshape": "end_rod"
+  },
+  "dirt" : { 
+    "blockshape": "invisible"
+  },
+  "packed_ice" : { 
+    "blockshape": "invisible"
+  },
+  "sand" : { 
+    "blockshape": "tripwire"
+  },
+  "ice" : { 
+    "blockshape": "tripwire"
+  },
+  "blue_ice" : { 
+    "blockshape": "invisible"
+  },
+  "netherrack" : { 
+    "blockshape": "tripwire"
+  },
+  "tallgrass" : { 
+    "blockshape": "invisible"
+  },
+  "fern" : { 
+    "blockshape": "invisible"
+  },
+  "grass" : { 
+    "blockshape": "invisible"
+  },
+  "soul_sand" : { 
+    "blockshape": "invisible"
+  },
+  "soul_soil" : {
+    "blockshape": "invisible"
+  },
+  "basalt" : {
+    "blockshape": "invisible"
+  },
+  "blackstone" : {
+    "blockshape": "invisible"
+  },
+  "snow" : {
+    "blockshape": "invisible"
+  },
+  "snow_layer" : {
+    "blockshape": "invisible"
+  },
+  "deepslate" : {
+    "blockshape": "invisible"
+  },
+  "tuff" : {
+    "blockshape": "invisible"
+  },
+  "hardened_clay" : {
+    "blockshape": "invisible"
+  },
+  "clay" : {
+    "blockshape": "invisible"
+  },
+  "dripstone_block" : {
+    "blockshape": "invisible"
+  },
+  "crimson_nylium" : { 
+    "blockshape": "invisible"
+  },
+  "warped_nylium" : { 
+    "blockshape": "invisible"
+  },
+  "red_mushroom_block" : {
+    "blockshape": "invisible"
+  },
+  "brown_mushroom_block" : {
+    "blockshape": "invisible"
+  },
+  "mushroom_stem" : {
+    "blockshape": "invisible"
+  },
+  "podzol" : {
+    "blockshape": "invisible"
+  },
+  "red_mushroom" : {
+    "blockshape": "invisible"
+  },
+  "glow_lichen" : {
+    "blockshape": "invisible"
+  },
+  "magma" : {
+    "blockshape": "end_rod"
+  },
+  "brown_mushroom" : {
+    "blockshape": "invisible"
+  },
+  "oak" : {
+    "blockshape": "invisible"
+  },
+  "deadbush" : {
+    "blockshape": "invisible"
+  },
+  "double_plant" : {
+    "blockshape": "invisible"
+  },
+  "kelp" : {
+    "blockshape": "invisible"
+  },
+  "leaves" : {
+    "blockshape": "invisible"
+  },
+  "leaves2" : {
+    "blockshape": "invisible"
+  },
+  "mangrove_leaves" : {
+    "blockshape": "invisible"
+  },
+  "mycelium" : {
+    "blockshape": "invisible"
+  },
+  "red_flower" : {
+    "blockshape": "invisible"
+  },
+  "reeds" : {
+    "blockshape": "invisible"
+  },
+  "seagrass" : {
+    "blockshape": "invisible"
+  },
+  "yellow_flower" : {
+    "blockshape": "invisible"
+  },
+  "grass_path" : {
+    "blockshape": "invisible"
+  },
+  "log" : {
+    "blockshape": "invisible"
+  },
+  "log2" : {
+    "blockshape": "invisible"
+  },
+  "mangrove_log" : {
+    "blockshape": "invisible"
+  },
+  "mangrove_wood" : {
+    "blockshape": "invisible"
+  },
+  "crimson_hyphae" : {
+    "blockshape": "invisible"
+  },
+  "crimson_roots" : {
+    "blockshape": "invisible"
+  },
+  "hanging_roots" : {
+    "blockshape": "invisible"
+  },
+  "mangrove_roots" : {
+    "blockshape": "invisible"
+  },
+  "mud" : {
+    "blockshape": "invisible"
+  },
+  "muddy_mangrove_roots" : {
+    "blockshape": "invisible"
+  },
+  "warped_roots" : {
+    "blockshape": "invisible"
+  },
+  "moss_block" : {
+    "blockshape": "invisible"
+  },
+  "cave_vines_body_with_berries" : {
+    "blockshape": "invisible"
+  },
+  "cave_vines" : {
+    "blockshape": "invisible"
+  },
+  "cave_vines_head_with_berries" : {
+    "blockshape": "invisible"
+  },
+  "moss_carpet" : {
+    "blockshape": "invisible"
+  },
+  "spore_blossom" : {
+    "blockshape": "invisible"
+  },
+  "azalea" : {
+    "blockshape": "invisible"
+  },
+  "azalea_leaves" : {
+    "blockshape": "invisible"
+  },
+  "azalea_leaves_flowered" : {
+    "blockshape": "invisible"
+  },
+  "flowering_azalea" : {
+    "blockshape": "invisible"
+  },
+  "spruce_leaves" : {
+    "blockshape": "invisible"
+  }
+}

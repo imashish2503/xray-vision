@@ -4,18 +4,6 @@
   "padding": 8,
   "num_mip_levels": 4,
   "texture_data": {
-    "stone": { "textures": "textures/blocks/stone" },
-    "deepslate": { "textures": "textures/blocks/deepslate" },
-    "granite": { "textures": "textures/blocks/granite" },
-    "diorite": { "textures": "textures/blocks/diorite" },
-    "andesite": { "textures": "textures/blocks/andesite" },
-    "tuff": { "textures": "textures/blocks/tuff" },
-    "basalt_side": { "textures": "textures/blocks/basalt_side" },
-    "basalt_top": { "textures": "textures/blocks/basalt_top" },
-    "blackstone": { "textures": "textures/blocks/blackstone" },
-    "end_stone": { "textures": "textures/blocks/end_stone" },
-    "netherrack": { "textures": "textures/blocks/netherrack" },
-
     "coal_ore": { "textures": "textures/blocks/coal_ore" },
     "deepslate_coal_ore": { "textures": "textures/blocks/deepslate_coal_ore" },
 
