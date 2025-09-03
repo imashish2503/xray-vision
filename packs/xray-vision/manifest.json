@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "name": "&a&1Ashiatrix's XRay Vision &0&1",
-    "description": "&c&1https://youtube.com/@ashiatrix &0&1",
-    "uuid": "6b6aee6a-74d7-4e8f-94bb-0f1a44581a90",
+    "name": "§a§1Ashiatrix's XRay Vision §0§1",
+    "description": "§c§1https://youtube.com/@ashiatrix §0§1",
+    "uuid": "997a19a0-f21d-415e-bfd7-17521aef289f",
     "version": [1, 0, 0],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "65d8e2e6-0c8f-4fde-8bc2-49b3fb9f22b0",
+      "uuid": "64b3c312-a320-49de-8827-ac12f850d173",
       "version": [1, 0, 0]
     }
   ],
