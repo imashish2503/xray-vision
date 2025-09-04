@@ -22,3 +22,6 @@ Thumbs.db
 
 # Codespaces
 *.code-workspace
+
+# local tooling (not tracked on main)
+tools/
